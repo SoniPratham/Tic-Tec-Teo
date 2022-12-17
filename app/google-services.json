@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730274731701",
+    "project_id": "soon-chokadi",
+    "storage_bucket": "soon-chokadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730274731701:android:7fbada1c543ce1efadd0fc",
+        "android_client_info": {
+          "package_name": "com.example.soonchokadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730274731701-85je8jdc6mg3litg64qp8vfh7qg8ub4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATK0X8QvNFjY5qccCT94Q1VDTbOJYm7ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730274731701-85je8jdc6mg3litg64qp8vfh7qg8ub4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
